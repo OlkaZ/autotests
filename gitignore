@@ -33,6 +33,8 @@
 ## Plugin-specific files:
 
 # IntelliJ
+out/
+.idea/
 /out/
 - /out/
 - /.idea/
